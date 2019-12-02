@@ -1,0 +1,57 @@
+#dropdown-menu-2btn-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-2 .nav .link,
+#dropdown-menu-2btn-2 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-2 .navbar,
+#dropdown-menu-2btn-2 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-2 .dropdown-menu a:hover,
+#dropdown-menu-2btn-2 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-2 .navbar-toggler {
+  color: #ffffff;
+}
+#header4-3 H1 {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-8 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #fff;
+  font-size: 20px;
+}
+#content5-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8 .mbr-article {
+  color: #fff;
+}
+#header3-9 H3 {
+  font-size: 19px;
+}
+#header3-b H3 {
+  font-size: 19px;
+}
+#header3-b P {
+  text-align: right;
+}
+#msg-box2-c .mbr-header .mbr-header__text {
+  color: #eb6b56;
+}
+#msg-box2-c .mbr-article {
+  color: #252525;
+}
+#contacts1-h DIV {
+  color: #e25041;
+}
+#contacts1-h P {
+  color: #cccccc;
+}
