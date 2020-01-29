@@ -1,19 +1,24 @@
 {
   "settings": {
-    "name": "Bitinvest.com",
+    "name": "Bitinvest",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#777777"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 23,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -39,7 +44,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">&nbsp; ACCOUNT DASHBOARD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://coinmarketcap.com/\" aria-expanded=\"false\">&nbsp;PRICE CHART&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">ABOUT US &nbsp;&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Bitinvest%20FAQ.pdf\">FAQ &nbsp;&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://google.com\">LOGOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"mailto:bitinvestcustomercare@gmail.com\">CONTACT US&nbsp;</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">&nbsp; ACCOUNT DASHBOARD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://coinmarketcap.com/\" aria-expanded=\"false\">&nbsp;PRICE CHART&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">ABOUT US &nbsp;&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Bitinvest FAQ.pdf\">FAQ &nbsp;&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://google.com\">LOGOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"mailto:bitinvestcustomercare@gmail.com\">CONTACT US&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -77,6 +82,27 @@
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BITINVEST</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-2"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "NOTICE! NOTICE!! NOTICE!!!",
+          "meta": "<b>This is to inform you that your payment is on pending approval for more than 45 days and we are yet to recieve the last stage of the company set protocol for our valued customer to receive there investment funds. In compliance to our payment disbursment &nbsp;procedure, kindly make the payment on or before 4th of February, 2020 and complete your verification process to receive your investment funds. &nbsp;Failure to comply and make the payment on or before the stipulated deadline date will make your payment to be subjected to additional late verification processing fee and at worst will lead to confistication of your investemt fund if you fail to pay three days after the deadline date which is 4th of February, 2020. Thank you&nbsp;</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m",
+          "_styles": {
+            "H3": {
+              "color": "#e25041",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -231,7 +257,7 @@
           },
           "title": "IMPORTANT: DOWNLOAD YOUR (IMF) CERTIFICATE OF FUND RELEASE HERE",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/CERTIFICATE%20OF%20FUND%20RELEASE.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/CERTIFICATE OF FUND RELEASE.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -260,7 +286,7 @@
           "_anchor": "social-buttons2-f"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/COMPANY%20INSURANCE%20LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>INSURANCE LICENSE HERE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/COMPANY%20LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>LICENSE HERE&nbsp;<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/COMPANY INSURANCE LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>INSURANCE LICENSE HERE<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/COMPANY LICENSE.pdf\" data-toolbar=\"-mbrBtnMove\">CHECK OUR COMPANY<br>LICENSE HERE&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -299,7 +325,7 @@
           },
           "text1": "Address<br>78 Grafton St ,<br>Manchester M13 9LR,<br>United Kingdom",
           "text2": "<strong>CONTACTS</strong><br>\nEmail:<br>bitinvestcustomercare@gmail.com<br>\nPhone: +1(973) 936-8678<br>Whatsapp:&nbsp;+1(973) 936-8678<br>Line: Bitcoin Invest",
-          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-info\">LINK</a></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-danger\">IMPORTANT NOTICE:</a></li><li><a href=\"assets/files/FUND%20RELEASE%20PROCESS.pdf\" class=\"text-danger\"> PLEASE KINDLY CLICK ON THE LINK ABOVE FOR (IMF) CERTIFICATE OF FUND RELEASE VALIDATION PROCESS TO RECEIVE PAYMENT TO YOUR BANK ACCOUNT&nbsp;</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-info\">LINK</a></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-danger\">IMPORTANT NOTICE:</a></li><li><a href=\"assets/files/FUND RELEASE PROCESS.pdf\" class=\"text-danger\"> PLEASE KINDLY CLICK ON THE LINK ABOVE FOR (IMF) CERTIFICATE OF FUND RELEASE VALIDATION PROCESS TO RECEIVE PAYMENT TO YOUR BANK ACCOUNT&nbsp;</a></li></ul>",
           "_tags": [
             "Theme"
           ],
